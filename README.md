@@ -30,7 +30,7 @@ This project drives **four DC motors** using **two L293D motor driver chips**, c
   Your browser does not support the video tag. Click below to watch the simulation.
 </video>
 
-> 🔗 **[Watch the full simulation video](demo_video.mp4)**
+> 🔗 **[Watch the full simulation video](emo_video.mp4)**
 
 ---
 ## 🖼️ Circuit Diagram
